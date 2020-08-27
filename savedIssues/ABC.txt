@@ -1,0 +1,3 @@
+Those are three first letters of the alphabet
+A and B and C are the letters you will get when you take three first position of the letter list called the alphabet
+There is a list of letters called the alphabet (used in Europe and USA) - and this list starts with a, then comes b, then c. After that comes different letters: D, E, F.
