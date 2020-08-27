@@ -1,0 +1,3 @@
+first numbers in arabian numeric system
+one is when you have one thing, add another one and you got two, and then another one and you got three
+<|> - this is one stick, <||> - these are two sticks, <|||> - these are three sticks
