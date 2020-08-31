@@ -56,7 +56,7 @@ while running:
                     for expl in newExplanations:
                         file.write(expl+'\n')
         except OSError as e:
-            print("Error! Invalid topic name - Issue cannot be created (tip: do not use characters like \" in your topic name")
+            print("Error! Invalid topic name - Issue cannot be created \n tip: do not use characters like \" in your topic name")
         except Exception as e:
             print("There is an error: {}".format(e))
         else:
