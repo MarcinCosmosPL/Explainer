@@ -55,6 +55,8 @@ while running:
                 with open(os.path.join(path, NewTopic+file_extension), 'w') as file:
                     for expl in newExplanations:
                         file.write(expl+'\n')
+        except OSError as e:
+            print("Error! Invalid topic name - Issue cannot be created (tip: do not use characters like \" in your topic name")
         except Exception as e:
             print("There is an error: {}".format(e))
         else:
